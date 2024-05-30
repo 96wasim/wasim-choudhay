@@ -1,2 +1,2 @@
 # wasim-choudhay
-demo -class
+demo -class.
